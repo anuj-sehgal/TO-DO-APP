@@ -70,7 +70,7 @@ const Todo = () => {
     return (
     <div className="Todo">
         <div style={{textAlign : "center",paddingTop : "5%"}}>
-            <h1>GeekHouse TODO &#128640;</h1>
+            <h1> TODO LIST &#128640;</h1>
         </div>
         <div className="parent_div">
             <div className="child_div">
